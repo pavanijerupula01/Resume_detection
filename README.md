@@ -267,7 +267,7 @@ Run the complete project directly in Google Colab without requiring local setup.
 
 ## 👩‍💻 Author
 
-**Rupanjali Garlapati**
+**Pavani Jerupula**
 
 Computer Science and Engineering
 CMR College of Engineering & Technology
