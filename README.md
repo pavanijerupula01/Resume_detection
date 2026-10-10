@@ -1,4 +1,4 @@
-# 🧠 Resume Integrity Analyzer
+# 🧠 Resume_detection
 
 An **AI-powered resume screening system** that analyzes uploaded resumes and classifies them as **Genuine** or **Fake / Exaggerated** using **Natural Language Processing (NLP)** and **zero-shot text classification**.
 
